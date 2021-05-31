@@ -2,7 +2,7 @@ Agustin Lorenzo - modified
 ===========================
 Changes:
 
-- Update FW of WLAN to latest version. NOT DONE
+- Update FW of WLAN to latest version. DONE
 - Import GUI from global version (language). NOT DONE
 
 xqrepack
